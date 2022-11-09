@@ -45,10 +45,3 @@ public:
     }
 };
 
-int main()
-{
-    string s = "MCMXCIV";
-    Solution test;
-    cout << test.romanToInt(s) << endl;
-    return test.romanToInt(s);
-}
